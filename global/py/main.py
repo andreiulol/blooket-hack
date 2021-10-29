@@ -62,4 +62,4 @@ def addTokens():
 
 while True:
     addTokens()
-    time.sleep(86400)
+    time.sleep(1)
